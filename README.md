@@ -54,9 +54,7 @@ Per jugar a **Elon Must Survive**, necessitaràs tenir instal·lat Python i la l
    - **Fletxa dreta/D**: Moure a la dreta.
    - **Fletxa esquerra/A**: Moure a l'esquerra.
 
-2. **Espai**: Activar habilitats especials (si les tens disponibles).
-
-3. **Esc**: Pausar el joc.
+2. **Esc**: Pausar el joc.
 
 ## Desenvolupat per:
 
